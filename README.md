@@ -33,7 +33,7 @@ Obliczone i zinterpretowane wskaźniki:
 | Plik | Opis |
 |------|------|
 | `jww wskaźniki.xlsx` | Plik Excel z danymi źródłowymi, wyliczeniami i wskaźnikami |
-| `analiza_jww_invest.pdf` | Gotowy raport: wykresy, analiza, komentarze i wnioski |
+| `jww analiza finansowa.pdf` | Gotowy raport z wykresami, analizą i komentarzami |
 | `README.md` | Opis projektu, zakres, użyte narzędzia |
 
 ## ✅ Wnioski końcowe
@@ -44,3 +44,4 @@ Wyniki wskazują na efektywne zarządzanie operacyjne, ale również rosnące ry
 ---
 
 📌 Projekt przygotowany jako materiał do portfolio z zakresu **analizy danych finansowych w Excelu**.
+
